@@ -447,12 +447,6 @@ f.close()
 更多前三名trick,请移步:[碎米比赛回放](https://1024.iflytek.com/liveroom?id=competition-child-child2-29&liveId=682559&cmskey=competition&date=1023)
 
 
-再有,本次比赛是和[Niki_173](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/474269)大佬和决赛第三名一起讨论上分的,关注一下他吧~
-
-这是[Niki_173](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/474269)大佬简介:
-![](https://ai-studio-static-online.cdn.bcebos.com/c0231969189045bc9959ad9446a65121c6fd87eeba9f4a29b4d6c80876d516fb)
-
-
 
 我在AI Studio上获得钻石等级，点亮8个徽章，来互关呀~ https://aistudio.baidu.com/aistudio/personalcenter/thirdview/764763
 
